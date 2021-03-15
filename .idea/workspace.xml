@@ -2,13 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="69a4c13c-3b3b-44a5-824f-5c130ee7087f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/blog/templates/blog/blog_index_page.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blog/templates/blog/blog_page.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/home/migrations/0003_homepage_body.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/templates/blog/blog_index_page.html" beforeDir="false" afterPath="$PROJECT_DIR$/blog/templates/blog/blog_index_page.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/db.sqlite3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/home/templates/home/home_page.html" beforeDir="false" afterPath="$PROJECT_DIR$/home/templates/home/home_page.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mysite/settings/base.py" beforeDir="false" afterPath="$PROJECT_DIR$/mysite/settings/base.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,7 +32,9 @@
     </option>
   </component>
   <component name="ProjectId" id="1ogMhP2JilD1v7my5YmdczfCfkx" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -110,7 +108,7 @@
       <workItem from="1615796502805" duration="1379000" />
       <workItem from="1615797957757" duration="1291000" />
       <workItem from="1615800950112" duration="44000" />
-      <workItem from="1615810483489" duration="4458000" />
+      <workItem from="1615810483489" duration="6838000" />
     </task>
     <task id="LOCAL-00001" summary="My first git">
       <created>1613726390665</created>
@@ -154,19 +152,35 @@
       <option name="project" value="LOCAL" />
       <updated>1615813906825</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Getting started blog">
+      <created>1615818847281</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1615818847281</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Getting started blog">
+      <created>1615818876626</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1615818876626</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="My first git" />
     <MESSAGE value="django-debug-toolbar" />
     <MESSAGE value="Navbar with bootstrap" />
     <MESSAGE value="StreamFields with Richtext" />
     <MESSAGE value="body with Richtext" />
-    <option name="LAST_COMMIT_MESSAGE" value="body with Richtext" />
+    <MESSAGE value="Getting started blog" />
+    <option name="LAST_COMMIT_MESSAGE" value="Getting started blog" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="WindowStateProjectService">
@@ -179,11 +193,11 @@
       <screen x="0" y="0" width="1440" height="860" />
     </state>
     <state x="350" y="0" width="754" height="860" key="#mysite/0.0.1440.860@0.0.1440.860" timestamp="1615810583823" />
-    <state x="226" y="0" width="953" height="728" key="CommitChangelistDialog2" timestamp="1615818845034">
+    <state x="226" y="0" width="953" height="728" key="CommitChangelistDialog2" timestamp="1615818875224">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
     <state x="214" y="0" width="953" height="728" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1615801088575" />
-    <state x="226" y="0" key="CommitChangelistDialog2/0.0.1440.860@0.0.1440.860" timestamp="1615818845034" />
+    <state x="226" y="0" key="CommitChangelistDialog2/0.0.1440.860@0.0.1440.860" timestamp="1615818875224" />
     <state x="413" y="62" key="FileChooserDialogImpl" timestamp="1615799178624">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -237,11 +251,11 @@
     </state>
     <state x="68" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1615800992443" />
     <state x="72" y="0" key="SettingsEditor/0.0.1440.860@0.0.1440.860" timestamp="1615810508894" />
-    <state x="184" y="38" key="Vcs.Push.Dialog.v2" timestamp="1615818852886">
+    <state x="184" y="38" key="Vcs.Push.Dialog.v2" timestamp="1615818882860">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
     <state x="175" y="32" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1614758945535" />
-    <state x="184" y="38" key="Vcs.Push.Dialog.v2/0.0.1440.860@0.0.1440.860" timestamp="1615818852886" />
+    <state x="184" y="38" key="Vcs.Push.Dialog.v2/0.0.1440.860@0.0.1440.860" timestamp="1615818882860" />
     <state x="92" y="92" width="1182" height="544" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog" timestamp="1615797898224">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
