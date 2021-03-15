@@ -100,6 +100,7 @@
       <workItem from="1615441301847" duration="598000" />
       <workItem from="1615796502805" duration="1379000" />
       <workItem from="1615797957757" duration="1291000" />
+      <workItem from="1615800950112" duration="44000" />
     </task>
     <task id="LOCAL-00001" summary="My first git">
       <created>1613726390665</created>
@@ -155,10 +156,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="137" y="12" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1615798170114" />
-    <state x="214" y="0" width="953" height="728" key="CommitChangelistDialog2" timestamp="1614758938394">
+    <state x="214" y="0" width="953" height="728" key="CommitChangelistDialog2" timestamp="1615801088575">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="214" y="0" width="953" height="728" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1614758938394" />
+    <state x="214" y="0" width="953" height="728" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1615801088575" />
     <state x="413" y="62" key="FileChooserDialogImpl" timestamp="1615799178624">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -203,10 +204,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="462" y="8" key="RollbackChangesDialog/0.0.1366.728@0.0.1366.728" timestamp="1614326063780" />
-    <state x="68" y="0" key="SettingsEditor" timestamp="1615797259525">
+    <state x="68" y="0" key="SettingsEditor" timestamp="1615800992443">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="68" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1615797259525" />
+    <state x="68" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1615800992443" />
     <state x="175" y="32" key="Vcs.Push.Dialog.v2" timestamp="1614758945535">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
