@@ -43,6 +43,7 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
@@ -178,11 +179,11 @@
       <screen x="0" y="0" width="1440" height="860" />
     </state>
     <state x="350" y="0" width="754" height="860" key="#mysite/0.0.1440.860@0.0.1440.860" timestamp="1615810583823" />
-    <state x="226" y="0" width="953" height="728" key="CommitChangelistDialog2" timestamp="1615813904704">
+    <state x="226" y="0" width="953" height="728" key="CommitChangelistDialog2" timestamp="1615818845034">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
     <state x="214" y="0" width="953" height="728" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1615801088575" />
-    <state x="226" y="0" key="CommitChangelistDialog2/0.0.1440.860@0.0.1440.860" timestamp="1615813904704" />
+    <state x="226" y="0" key="CommitChangelistDialog2/0.0.1440.860@0.0.1440.860" timestamp="1615818845034" />
     <state x="413" y="62" key="FileChooserDialogImpl" timestamp="1615799178624">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -236,11 +237,11 @@
     </state>
     <state x="68" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1615800992443" />
     <state x="72" y="0" key="SettingsEditor/0.0.1440.860@0.0.1440.860" timestamp="1615810508894" />
-    <state x="184" y="38" key="Vcs.Push.Dialog.v2" timestamp="1615813924022">
+    <state x="184" y="38" key="Vcs.Push.Dialog.v2" timestamp="1615818852886">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
     <state x="175" y="32" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1614758945535" />
-    <state x="184" y="38" key="Vcs.Push.Dialog.v2/0.0.1440.860@0.0.1440.860" timestamp="1615813924022" />
+    <state x="184" y="38" key="Vcs.Push.Dialog.v2/0.0.1440.860@0.0.1440.860" timestamp="1615818852886" />
     <state x="92" y="92" width="1182" height="544" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog" timestamp="1615797898224">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
