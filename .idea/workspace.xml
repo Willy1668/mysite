@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="69a4c13c-3b3b-44a5-824f-5c130ee7087f" name="Default Changelist" comment="" />
+    <list default="true" id="69a4c13c-3b3b-44a5-824f-5c130ee7087f" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/db.sqlite3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/home/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/home/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/home/templates/home/home_page.html" beforeDir="false" afterPath="$PROJECT_DIR$/home/templates/home/home_page.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -55,16 +60,16 @@
         <env name="PYTHONUNBUFFERED" value="1" />
         <env name="DJANGO_SETTINGS_MODULE" value="mysite.settings.dev" />
       </envs>
-      <option name="SDK_HOME" value="C:\Users\user\PycharmProjects\wagtail_venv\Scripts\python.exe" />
+      <option name="SDK_HOME" value="" />
       <option name="WORKING_DIRECTORY" value="" />
-      <option name="IS_MODULE_SDK" value="false" />
+      <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="launchJavascriptDebuger" value="false" />
       <option name="port" value="8000" />
       <option name="host" value="" />
       <option name="additionalOptions" value="" />
-      <option name="browserUrl" value="" />
+      <option name="browserUrl" value="http://127.0.0.1:8000/" />
       <option name="runTestServer" value="false" />
       <option name="runNoReload" value="false" />
       <option name="useCustomRunCommand" value="false" />
@@ -101,6 +106,7 @@
       <workItem from="1615796502805" duration="1379000" />
       <workItem from="1615797957757" duration="1291000" />
       <workItem from="1615800950112" duration="44000" />
+      <workItem from="1615810483489" duration="1263000" />
     </task>
     <task id="LOCAL-00001" summary="My first git">
       <created>1613726390665</created>
@@ -152,10 +158,15 @@
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="137" y="12" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1615798170114">
-      <screen x="0" y="0" width="1366" height="728" />
+    <state x="144" y="14" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1615810576242">
+      <screen x="0" y="0" width="1440" height="860" />
     </state>
     <state x="137" y="12" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1615798170114" />
+    <state x="144" y="14" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1440.860@0.0.1440.860" timestamp="1615810576242" />
+    <state x="350" y="0" width="754" height="860" key="#mysite" timestamp="1615810583823">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="350" y="0" width="754" height="860" key="#mysite/0.0.1440.860@0.0.1440.860" timestamp="1615810583823" />
     <state x="214" y="0" width="953" height="728" key="CommitChangelistDialog2" timestamp="1615801088575">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -168,22 +179,26 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="521" y="232" key="Github.ShareDialog/0.0.1366.728@0.0.1366.728" timestamp="1615798939164" />
-    <state width="1313" height="164" key="GridCell.Tab.0.bottom" timestamp="1615799063149">
-      <screen x="0" y="0" width="1366" height="728" />
+    <state width="1387" height="208" key="GridCell.Tab.0.bottom" timestamp="1615813506252">
+      <screen x="0" y="0" width="1440" height="860" />
     </state>
     <state width="1313" height="164" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1615799063149" />
-    <state width="1313" height="164" key="GridCell.Tab.0.center" timestamp="1615799063149">
-      <screen x="0" y="0" width="1366" height="728" />
+    <state width="1387" height="208" key="GridCell.Tab.0.bottom/0.0.1440.860@0.0.1440.860" timestamp="1615813506252" />
+    <state width="1387" height="208" key="GridCell.Tab.0.center" timestamp="1615813506251">
+      <screen x="0" y="0" width="1440" height="860" />
     </state>
     <state width="1313" height="164" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1615799063149" />
-    <state width="1313" height="164" key="GridCell.Tab.0.left" timestamp="1615799063149">
-      <screen x="0" y="0" width="1366" height="728" />
+    <state width="1387" height="208" key="GridCell.Tab.0.center/0.0.1440.860@0.0.1440.860" timestamp="1615813506251" />
+    <state width="1387" height="208" key="GridCell.Tab.0.left" timestamp="1615813506250">
+      <screen x="0" y="0" width="1440" height="860" />
     </state>
     <state width="1313" height="164" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1615799063149" />
-    <state width="1313" height="164" key="GridCell.Tab.0.right" timestamp="1615799063149">
-      <screen x="0" y="0" width="1366" height="728" />
+    <state width="1387" height="208" key="GridCell.Tab.0.left/0.0.1440.860@0.0.1440.860" timestamp="1615813506250" />
+    <state width="1387" height="208" key="GridCell.Tab.0.right" timestamp="1615813506252">
+      <screen x="0" y="0" width="1440" height="860" />
     </state>
     <state width="1313" height="164" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1615799063149" />
+    <state width="1387" height="208" key="GridCell.Tab.0.right/0.0.1440.860@0.0.1440.860" timestamp="1615813506252" />
     <state width="1313" height="166" key="GridCell.Tab.1.bottom" timestamp="1613978679079">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -204,10 +219,11 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="462" y="8" key="RollbackChangesDialog/0.0.1366.728@0.0.1366.728" timestamp="1614326063780" />
-    <state x="68" y="0" key="SettingsEditor" timestamp="1615800992443">
-      <screen x="0" y="0" width="1366" height="728" />
+    <state x="72" y="0" key="SettingsEditor" timestamp="1615810508894">
+      <screen x="0" y="0" width="1440" height="860" />
     </state>
     <state x="68" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1615800992443" />
+    <state x="72" y="0" key="SettingsEditor/0.0.1440.860@0.0.1440.860" timestamp="1615810508894" />
     <state x="175" y="32" key="Vcs.Push.Dialog.v2" timestamp="1614758945535">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
