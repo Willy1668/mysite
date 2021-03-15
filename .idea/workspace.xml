@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="69a4c13c-3b3b-44a5-824f-5c130ee7087f" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DjangoConsoleOptions" custom-start-script="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)">
+    <option name="myCustomStartScript" value="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="C:\Users\user\PycharmProjects\mysite\.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ogMhP2JilD1v7my5YmdczfCfkx" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\user\PycharmProjects\mysite\home\templates\home" />
+      <recent name="C:\Users\user\PycharmProjects\mysite\mysite\templates\home" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="mysite" type="Python.DjangoServer" factoryName="Django server">
+      <module name="mysite" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+        <env name="DJANGO_SETTINGS_MODULE" value="mysite.settings.dev" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\user\PycharmProjects\wagtail_venv\Scripts\python.exe" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="launchJavascriptDebuger" value="false" />
+      <option name="port" value="8000" />
+      <option name="host" value="" />
+      <option name="additionalOptions" value="" />
+      <option name="browserUrl" value="" />
+      <option name="runTestServer" value="false" />
+      <option name="runNoReload" value="false" />
+      <option name="useCustomRunCommand" value="false" />
+      <option name="customRunCommand" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="69a4c13c-3b3b-44a5-824f-5c130ee7087f" name="Default Changelist" comment="" />
+      <created>1613703898884</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1613703898884</updated>
+      <workItem from="1613703908127" duration="6593000" />
+      <workItem from="1613716357017" duration="7212000" />
+      <workItem from="1613963698713" duration="7455000" />
+      <workItem from="1613979768943" duration="3121000" />
+      <workItem from="1614049156788" duration="3071000" />
+      <workItem from="1614135475727" duration="744000" />
+      <workItem from="1614317998067" duration="596000" />
+      <workItem from="1614324389333" duration="197000" />
+      <workItem from="1614324604307" duration="2064000" />
+      <workItem from="1614658864245" duration="605000" />
+      <workItem from="1614667551654" duration="525000" />
+      <workItem from="1614744185673" duration="599000" />
+      <workItem from="1614751147751" duration="5890000" />
+      <workItem from="1614927699056" duration="593000" />
+      <workItem from="1615353666783" duration="1186000" />
+      <workItem from="1615441301847" duration="598000" />
+      <workItem from="1615796502805" duration="1379000" />
+      <workItem from="1615797957757" duration="1291000" />
+    </task>
+    <task id="LOCAL-00001" summary="My first git">
+      <created>1613726390665</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1613726390665</updated>
+    </task>
+    <task id="LOCAL-00002" summary="django-debug-toolbar">
+      <created>1613979782201</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1613979782201</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Navbar with bootstrap">
+      <created>1613982306134</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1613982306134</updated>
+    </task>
+    <task id="LOCAL-00004" summary="StreamFields with Richtext">
+      <created>1614758907943</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1614758907943</updated>
+    </task>
+    <task id="LOCAL-00005" summary="StreamFields with Richtext">
+      <created>1614758939566</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1614758939566</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="My first git" />
+    <MESSAGE value="django-debug-toolbar" />
+    <MESSAGE value="Navbar with bootstrap" />
+    <MESSAGE value="StreamFields with Richtext" />
+    <option name="LAST_COMMIT_MESSAGE" value="StreamFields with Richtext" />
+    <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="137" y="12" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1615798170114">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="137" y="12" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1615798170114" />
+    <state x="214" y="0" width="953" height="728" key="CommitChangelistDialog2" timestamp="1614758938394">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="214" y="0" width="953" height="728" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1614758938394" />
+    <state x="413" y="62" key="FileChooserDialogImpl" timestamp="1615799178624">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="413" y="62" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1615799178624" />
+    <state x="521" y="232" key="Github.ShareDialog" timestamp="1615798939164">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="521" y="232" key="Github.ShareDialog/0.0.1366.728@0.0.1366.728" timestamp="1615798939164" />
+    <state width="1313" height="164" key="GridCell.Tab.0.bottom" timestamp="1615799063149">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1313" height="164" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1615799063149" />
+    <state width="1313" height="164" key="GridCell.Tab.0.center" timestamp="1615799063149">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1313" height="164" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1615799063149" />
+    <state width="1313" height="164" key="GridCell.Tab.0.left" timestamp="1615799063149">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1313" height="164" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1615799063149" />
+    <state width="1313" height="164" key="GridCell.Tab.0.right" timestamp="1615799063149">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1313" height="164" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1615799063149" />
+    <state width="1313" height="166" key="GridCell.Tab.1.bottom" timestamp="1613978679079">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1313" height="166" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1613978679079" />
+    <state width="1313" height="166" key="GridCell.Tab.1.center" timestamp="1613978679079">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1313" height="166" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1613978679079" />
+    <state width="1313" height="166" key="GridCell.Tab.1.left" timestamp="1613978679079">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1313" height="166" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1613978679079" />
+    <state width="1313" height="166" key="GridCell.Tab.1.right" timestamp="1613978679079">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1313" height="166" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1613978679079" />
+    <state x="462" y="8" key="RollbackChangesDialog" timestamp="1614326063780">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="462" y="8" key="RollbackChangesDialog/0.0.1366.728@0.0.1366.728" timestamp="1614326063780" />
+    <state x="68" y="0" key="SettingsEditor" timestamp="1615797259525">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="68" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1615797259525" />
+    <state x="175" y="32" key="Vcs.Push.Dialog.v2" timestamp="1614758945535">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="175" y="32" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1614758945535" />
+    <state x="92" y="92" width="1182" height="544" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog" timestamp="1615797898224">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="92" y="92" width="1182" height="544" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog/0.0.1366.728@0.0.1366.728" timestamp="1615797898224" />
+    <state x="298" y="37" width="945" height="654" key="find.popup" timestamp="1614756918940">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="298" y="37" width="945" height="654" key="find.popup/0.0.1366.728@0.0.1366.728" timestamp="1614756918940" />
+    <state x="366" y="111" key="git4idea.merge.GitPullDialog" timestamp="1614658872723">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="366" y="111" key="git4idea.merge.GitPullDialog/0.0.1366.728@0.0.1366.728" timestamp="1614658872723" />
+  </component>
+</project>
