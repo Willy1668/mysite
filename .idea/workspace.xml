@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="69a4c13c-3b3b-44a5-824f-5c130ee7087f" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/blog/models.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/blog/templates/blog/blog_index_page.html" beforeDir="false" afterPath="$PROJECT_DIR$/blog/templates/blog/blog_index_page.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/db.sqlite3" afterDir="false" />
     </list>
@@ -109,6 +110,7 @@
       <workItem from="1615797957757" duration="1291000" />
       <workItem from="1615800950112" duration="44000" />
       <workItem from="1615810483489" duration="6838000" />
+      <workItem from="1615957050353" duration="3812000" />
     </task>
     <task id="LOCAL-00001" summary="My first git">
       <created>1613726390665</created>
@@ -206,25 +208,25 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="521" y="232" key="Github.ShareDialog/0.0.1366.728@0.0.1366.728" timestamp="1615798939164" />
-    <state width="1387" height="208" key="GridCell.Tab.0.bottom" timestamp="1615813957912">
-      <screen x="0" y="0" width="1440" height="860" />
+    <state width="1313" height="201" key="GridCell.Tab.0.bottom" timestamp="1615968910999">
+      <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1313" height="164" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1615799063149" />
+    <state width="1313" height="201" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1615968910999" />
     <state width="1387" height="208" key="GridCell.Tab.0.bottom/0.0.1440.860@0.0.1440.860" timestamp="1615813957912" />
-    <state width="1387" height="208" key="GridCell.Tab.0.center" timestamp="1615813957911">
-      <screen x="0" y="0" width="1440" height="860" />
+    <state width="1313" height="201" key="GridCell.Tab.0.center" timestamp="1615968910998">
+      <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1313" height="164" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1615799063149" />
+    <state width="1313" height="201" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1615968910998" />
     <state width="1387" height="208" key="GridCell.Tab.0.center/0.0.1440.860@0.0.1440.860" timestamp="1615813957911" />
-    <state width="1387" height="208" key="GridCell.Tab.0.left" timestamp="1615813957911">
-      <screen x="0" y="0" width="1440" height="860" />
+    <state width="1313" height="201" key="GridCell.Tab.0.left" timestamp="1615968910997">
+      <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1313" height="164" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1615799063149" />
+    <state width="1313" height="201" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1615968910997" />
     <state width="1387" height="208" key="GridCell.Tab.0.left/0.0.1440.860@0.0.1440.860" timestamp="1615813957911" />
-    <state width="1387" height="208" key="GridCell.Tab.0.right" timestamp="1615813957912">
-      <screen x="0" y="0" width="1440" height="860" />
+    <state width="1313" height="201" key="GridCell.Tab.0.right" timestamp="1615968910999">
+      <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1313" height="164" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1615799063149" />
+    <state width="1313" height="201" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1615968910999" />
     <state width="1387" height="208" key="GridCell.Tab.0.right/0.0.1440.860@0.0.1440.860" timestamp="1615813957912" />
     <state width="1313" height="166" key="GridCell.Tab.1.bottom" timestamp="1613978679079">
       <screen x="0" y="0" width="1366" height="728" />
